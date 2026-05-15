@@ -1,4 +1,4 @@
-## 🃏 Solitario - Klondike Card Game
+## 🃏 Solitario
 
 Un'elegante implementazione del classico gioco di carte **Klondike Solitario** in HTML5, CSS3 e JavaScript vanilla, completamente responsive e ottimizzato per desktop e mobile.
 
