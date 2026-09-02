@@ -36,5 +36,5 @@ Un'elegante implementazione del classico gioco di carte **Klondike Solitario** i
 -  Chrome/Edge
 -  Firefox
 -  Safari
-- ✅ Tutti i browser moderni
-- ✅ Dispositivi mobile iOS e Android
+-  Tutti i browser moderni
+-  Dispositivi mobile iOS e Android
