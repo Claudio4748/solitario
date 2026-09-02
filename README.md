@@ -1,8 +1,8 @@
-## 🃏 Solitario
+## Solitario
 
 Un'elegante implementazione del classico gioco di carte **Klondike Solitario** in HTML5, CSS3 e JavaScript vanilla, completamente responsive e ottimizzato per desktop e mobile.
 
-## ✨ Caratteristiche
+## Caratteristiche
 
 - **Gameplay Completo**: Regole autentiche del Klondike Solitario
 - **Drag & Drop Intuitivo**: Muovi le carte con mouse e touch fluido
@@ -15,14 +15,14 @@ Un'elegante implementazione del classico gioco di carte **Klondike Solitario** i
 - **No Dipendenze**: Codice puro vanilla senza framework
 - **Supporto Touch**: Ottimizzato per dispositivi touchscreen
 
-## 🎮 Come Giocare
+## Come Giocare
 
 1. **Obiettivo**: Costruisci quattro pile di fondazione in ordine dal'Asso al Re
 2. **Tableau**: Muovi le carte in colonne decrescenti (K → A) alternando i colori
 3. **Stock & Waste**: Pesca dal mazzo (Stock) e usa la pila di scarto (Waste)
 4. **Vincita**: Riempi tutte e quattro le fondazioni!
 
-## 🚀 Caratteristiche Tecniche
+## Caratteristiche Tecniche
 
 - **HTML5 Semantico**: Struttura pulita e accessibile
 - **CSS3 Avanzato**: Variabili CSS per il responsive, animazioni smooth
@@ -31,10 +31,10 @@ Un'elegante implementazione del classico gioco di carte **Klondike Solitario** i
 - **Ottimizzato per Mobile**: Interfaccia fluid e senza lag
 - **LocalStorage**: Memorizzazione dello stato (opzionale)
 
-## 📱 Compatibilità
+## Compatibilità
 
-- ✅ Chrome/Edge (v80+)
-- ✅ Firefox (v75+)
-- ✅ Safari (v13+)
+-  Chrome/Edge
+-  Firefox
+-  Safari
 - ✅ Tutti i browser moderni
 - ✅ Dispositivi mobile iOS e Android
